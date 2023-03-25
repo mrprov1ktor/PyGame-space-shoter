@@ -1,2 +1,1 @@
-# PyGame-space-shoter
-python game for students
+Игра на pyGame созданная учениками
